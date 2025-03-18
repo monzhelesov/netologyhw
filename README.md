@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "ELK" - Монжелесов Роман
+# Домашнее задание к занятию "Работа с данными (DDL/DML)" - Монжелесов Роман
 
 ### Инструкция по выполнению домашнего задания
 
@@ -23,19 +23,12 @@
 
 ### Задание 1
 
-![alt text](https://github.com/monzhelesov/git-hw/blob/main/Снимок%20экрана%202025-01-24%20в%2001.09.01.png)
-Почему-то не хочет менять имя кластеру, хотя команду указал, пробовал даже через отдельный файл настроить, но результат тот же
+![alt text](https://github.com/monzhelesov/netologyhw/blob/main/Снимок%20экрана%202025-03-15%20в%2015.03.48.png)
+
+![alt text](https://github.com/monzhelesov/netologyhw/blob/main/Снимок%20экрана%202025-03-15%20в%2015.04.55.png)
+
+![alt text](https://github.com/monzhelesov/netologyhw/blob/main/Снимок%20экрана%202025-03-15%20в%2015.38.26.png)
 
 ### Задание 2
 
-![alt text](https://github.com/monzhelesov/git-hw/blob/main/Снимок%20экрана%202025-01-24%20в%2001.10.34.png)
-
-### Задание 3
-
-![alt text](https://github.com/monzhelesov/git-hw/blob/main/Снимок%20экрана%202025-01-25%20в%2020.55.36.png)
-
-Не видит индекс в кибане, полностью проверил логсташ, логи он отправляет без ошибок. Также дал права докеру на чтение логов. Пробовал сам создать индекс, но результат тот же.
-
-### Задание 4
-
-![alt text](https://github.com/monzhelesov/git-hw/blob/main/Снимок%20экрана%202025-01-25%20в%2020.15.02.png)
+![alt text](https://github.com/monzhelesov/netologyhw/blob/main/Снимок%20экрана%202025-03-18%20в%2017.57.33.png)
